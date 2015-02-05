@@ -2,6 +2,8 @@
 
 An extension for ColdFusion 10 Administrator that allows adding/viewing/removing of SSL certificates in the Java certificate store from within the Administrator.
 
+This works with ColdFusion 10. For a CF7, 8 & 9 version please check out [CF-Certman](https://github.com/coldfumonkeh/CF-Certman).
+
 
 ## Installation
 
